@@ -1,0 +1,17 @@
+{
+  "name": "grocerynerd2",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Chris <cahuie@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ChrisHuie/GroceryNerd",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
